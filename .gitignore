@@ -1,0 +1,11 @@
+# Python
+*.egg-info
+dist/
+__pycache__/
+venv
+
+# Pycharm
+.idea/
+
+# Norilog
+norilog.json
